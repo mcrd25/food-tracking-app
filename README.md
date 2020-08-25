@@ -1,2 +1,2 @@
 # food-tracking-app
-Food Tracking App built with REact and Rails
+Food Tracking App API
